@@ -1,3 +1,5 @@
+A simple React app that generates two random hands of Pokemon cards and shows who is the winner.  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
